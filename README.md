@@ -16,15 +16,17 @@ Here are some ideas to get you started:
 -->
 
 <div align=center>
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=qz83h&utm_content=farm">
-    <img
-      src="https://render.gitanimals.org/farms/qz83h"
-      width="600"
-      height="300"
-    />
-  </a>
+
 </div>
 <div align="center">
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=qz83h&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/qz83h"
+  width="600"
+  height="300"
+/>
+</a>
 
 <!-- Main Stack -->
 <h4 align="center"> 🤔 할 줄 아는 거 🤔</h4>
@@ -45,4 +47,4 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-
+<h4 align="center">🤔 약간 🤔</h4>
