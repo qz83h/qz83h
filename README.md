@@ -9,6 +9,4 @@
 </div>
 
 ### 🛠 Tech Stack
-<img src="https://skillicons.dev/icons?i=python,r&theme=light" />
-<img src="https://skillicons.dev/icons?i=mysql&theme=light" />
-<img src="https://skillicons.dev/icons?i=c&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,r,sql,c&theme=light" />
