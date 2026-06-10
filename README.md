@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align=center>
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yeessonng&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/qz83h"
+      width="600"
+      height="300"
+    />
+  </a>
+</div>
 
-<!--
-**qz83h/qz83h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 전공: 응용통계학
+- 복수전공: 컴퓨터공학
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Statistical Analysis
+<img src="https://skillicons.dev/icons?i=python,r&theme=light" />
+
+- Minitab
+- SPSS
+- SAS
+
+### 🗄 Database / Query
+<img src="https://skillicons.dev/icons?i=mysql&theme=light" />
+
+- SQL
+
+### 💻 Programming
+<img src="https://skillicons.dev/icons?i=c&theme=light" />
